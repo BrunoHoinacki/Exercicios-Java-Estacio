@@ -1,0 +1,1 @@
+# O refactor da classe `Escola` modificou o agrupamento de alunos, substituindo o uso de `List` por `Set` dentro do `Collectors.groupingBy`, para garantir que não haja alunos duplicados por naturalidade. Além disso, foi utilizado um `TreeMap` para garantir que as naturalidades fossem exibidas em ordem alfabética.
