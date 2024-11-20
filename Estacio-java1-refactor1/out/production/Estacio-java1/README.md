@@ -1,0 +1,1 @@
+# Refactor da Classe escola usando Collectors com Set ao inves de list para não ter alunos duplicados
