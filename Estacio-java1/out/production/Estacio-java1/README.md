@@ -1,0 +1,1 @@
+# agrupando objetos nativamente sem uso de library 
